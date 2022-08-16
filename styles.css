@@ -1,0 +1,50 @@
+
+input{
+    border: 1px solid grey;
+    width: 500px;
+    padding: 1rem;
+}
+.boder{
+    border: 1px solid grey;
+    height: 630px;
+    width: 600px;
+    margin-left: 25rem;
+    margin-top: 5rem;
+    padding-left: 2rem;
+    padding-top: 32px;
+}
+#message{
+    height: 150px;
+    width: 500px;
+    padding: none;
+}
+#send{
+    background-color: rgb(37, 45, 158);
+    color: white;
+    width: 100px;
+    border-radius: 5px;
+}
+#text{
+    padding: 0.95rem;
+    width: 530px;
+}
+#bat{
+    border-right: none;
+    width: 460px;
+}
+h2{
+    font-size: 35px;
+    font-family: Arial;
+}
+label{
+    font-family: Arial;
+}
+p{
+    font-family: Arial;
+}
+#select{
+    color: grey;
+}
+body{
+    margin-left: none;
+}
